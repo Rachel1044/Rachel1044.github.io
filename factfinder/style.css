@@ -1,0 +1,47 @@
+div{
+	border:2px solid black;
+	margin:10px;
+	border-radius:10px;
+	padding: 5px;
+	height: 250px;
+	width: 475px;
+	background-color:#ADA3A4;
+}
+ 
+ h1{
+	 color: #988792;
+	 font-family: Tahoma;
+ }
+ 
+ body{
+	 background-color:#D1C3BE;
+ }
+ input{
+	 padding:15px 25px;
+	 border: 5px solid #ADA3A4;
+	 border-radius:10px;
+	 color:#white;
+	 font-weight:bold;
+	 background-color:#988792;
+	 font-family: Tahoma;
+ }
+ input:hover{
+	 color:black;
+	 border: 4px solid #C4CFD8;
+	 background-color:#9BA4A8;
+	 font-family: Tahoma;
+ }
+ #factDisplay{
+	 border:4px solid black;
+	 border-radius:20px;
+	 margin:10px;
+	 padding:15px;
+	 width:670px;
+	 min-height:300px;
+	 
+ }
+img{
+	width:60%;
+	border-radius:20px;
+	padding: 10px;
+}
